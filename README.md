@@ -57,14 +57,27 @@ My Proficient Skills:
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/zhenangroup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenangroup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/
-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenangroup&hide=PHP,html&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zhao's GitHub Stats" />
-</a>
+<p align="center">
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=zhenangroup&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
+  
+</p>
+<details>
+  <summary> More things </summary>
+  <br>
+  <p align="center">
+    <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=zhenangroup&layout=compact" /></a>
+  </p>
+  <p>
+    - 🔭 I’m currently working on <a target="_blank" href="https://findsingles.online/">findsingles.online</a> project. <br/>
+    - 🌱 I’m currently learning Angular.<br/>
+  - 👯 I’m looking to collaborate on <a href="https://github.com/zhenangroup/React-native-hybridapp" target="_blank">Hybrid App</a> Development.<br/>
+    - 🤔 I’m looking for help with Docker<br/>
+    - 💬 Ask me about Django and Laravel.<br/>
+  - 📫 How to reach me: <a href="zhennangorup@outlook.com">zhennangorup@outlook.com</a><br/>
+    - ⚡ Fun fact: Sport - badminton<br/>
+  </p> 
+  
+</details
 
 
 ## 📬 Get in Touch
