@@ -8,7 +8,7 @@
 Hey 👋🏻,
 
 
-I am a senior full-stack engineer with 8 years of hands on experience from China.
+I am a senior full-stack engineer with 7+ years of hands on experience from China.
 
 My Proficient Skills: 
  - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice), Next.js, Vue.js, Angular.js
@@ -70,6 +70,6 @@ My Proficient Skills:
 ## 📬 Get in Touch
 
 
-- Website:  https://zhaoping-portfolio.herokuapp.com [1]
-- LinkedIn:  https://linkedin.com/in/zhcharles [2]
-- Stackoverflow:  https://stackoverflow.com/users/14272266/versatile-developer [3]
+- Website:  https://zhenan-portfolio.herokuapp.com [1]
+- LinkedIn:  https://www.linkedin.com/in/zhenangroup/ [2]
+- Stackoverflow:  https://stackoverflow.com/users/12492241/zhenan-dev [3]
