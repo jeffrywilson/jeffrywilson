@@ -61,29 +61,3 @@ My Proficient Skills:
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=zhenangroup&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
   
 </p>
-
-
-
-## 📬 Get in Touch
-
-
-- Website:  https://zhenan-portfolio.herokuapp.com [1]
-- LinkedIn:  https://www.linkedin.com/in/zhenangroup/ [2]
-- Stackoverflow:  https://stackoverflow.com/users/12492241/zhenan-dev [3]
-
-<details>
-  <summary> More things </summary>
-  <br>
-  <p align="center">
-    <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=zhenangroup&layout=compact" /></a>
-  </p>
-  <p>
-    - 🔭 I’m currently working on <a target="_blank" href="https://findsingles.online/">findsingles.online</a> project. <br/>
-    - 🌱 I’m currently learning Angular.<br/>
-  - 👯 I’m looking to collaborate on <a href="https://github.com/zhenangroup/React-native-hybridapp" target="_blank">Hybrid App</a> Development.<br/>
-    - 🤔 I’m looking for help with Docker<br/>
-    - 💬 Ask me about Django and Laravel.<br/>
-    - ⚡ Fun fact: Sport - badminton<br/>
-  </p> 
-  
-</details>
