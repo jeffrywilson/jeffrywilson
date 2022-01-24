@@ -8,7 +8,7 @@
 Hey 👋🏻,
 
 
-I am a senior full-stack engineer with 7+ years of hands on experience from China.
+I am a senior full-stack engineer.
 
 My Proficient Skills: 
  - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice), Next.js, Vue.js, Angular.js
