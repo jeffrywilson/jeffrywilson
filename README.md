@@ -1,5 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/zhenangroup/zhenangroup/master/assets/Picture1.png)
-![GitHub Views](https://komarev.com/ghpvc/?username=zhenangroup&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=tomgroup&color=FAC151)
 [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/zhenangroup)
 [![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/zhenangroup)
 [![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/zhenangroup)
@@ -58,6 +57,6 @@ My Proficient Skills:
 ## &#x1f4c8; My GitHub Stats
 
 <p align="center">
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=zhenangroup&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tomgroup&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
   
 </p>
