@@ -57,6 +57,6 @@ My Proficient Skills:
 ## &#x1f4c8; My GitHub Stats
 
 <p align="center">
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tomgroup&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mvpaker&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
   
 </p>
