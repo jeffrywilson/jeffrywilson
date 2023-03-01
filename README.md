@@ -41,10 +41,3 @@
 
 <img src="https://raw.githubusercontent.com/zhenangroup/zhenangroup/main/assets/git-original.svg" height="auto" width="40">
 </p>
-
-## &#x1f4c8; My GitHub Stats
-
-<p align="center">
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jeffrywilson&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
-  
-</p>
