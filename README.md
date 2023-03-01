@@ -5,7 +5,7 @@
 [![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/jeffrywilson)
 [![typescript](https://img.shields.io/badge/AWS-Expert-FAC151.svg?logo=amazon&logoWidth=20)](https://github.com/jeffrywilson)
 [![typescript](https://img.shields.io/badge/GCP-Expert-FAC151.svg?logo=google&logoWidth=20)](https://github.com/jeffrywilson)
-[![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/jeffrywilson)
+
 ## Senior Full-Stack Engineer
 
 ## My Skill Set:
