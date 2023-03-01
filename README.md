@@ -4,18 +4,6 @@
 [![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/zhenangroup)
 ## Senior Full-Stack Engineer
 
-Hey 👋🏻,
-
-
-I am a senior full-stack engineer.
-
-My Proficient Skills: 
- - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice), Next.js, Vue.js, Angular.js
- - Backend: Django & Django Restframework, Node.js, Express.js, Laravel
- - Mobile: React Native, Ionic, Android(Java)
- - Others: Mathematics, Machine Learning, Strong Algorithm, Data Science, Several UI frameworks (Material UI, Ant Design, React Bootstrap, ...)
-
-
 ## My Skill Set:
 
 <p align="left">
@@ -57,6 +45,6 @@ My Proficient Skills:
 ## &#x1f4c8; My GitHub Stats
 
 <p align="center">
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mvpaker&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jeffrywilson&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
   
 </p>
